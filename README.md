@@ -41,19 +41,19 @@
 ### 第 1 周（Day 1-7）：基础强化
 
 #### Day 1-2：JavaScript 核心
-- [ ] Event Loop 深入（宏任务/微任务/queueMicrotask）
-- [ ] 执行上下文与作用域链
-- [ ] 闭包原理与内存管理
-- [ ] 原型链与继承机制
-- [ ] this 绑定规则
+- [x] Event Loop 深入（宏任务/微任务/queueMicrotask）
+- [x] 执行上下文与作用域链
+- [x] 闭包原理与内存管理
+- [x] 原型链与继承机制
+- [x] this 绑定规则
 - [ ] V8 引擎工作原理
 - [ ] 垃圾回收机制（Mark-Sweep、Scavenge、增量标记）
 
 #### Day 3-4：ES2024-2026 新特性
-- [ ] Proxy 与 Reflect 高级用法
-- [ ] Symbol 与 Iterator/Generator
-- [ ] async/await 与 Promise 原理
-- [ ] WeakMap/WeakSet 应用场景
+- [x] Proxy 与 Reflect 高级用法
+- [x] Symbol 与 Iterator/Generator
+- [x] async/await 与 Promise 原理
+- [x] WeakMap/WeakSet 应用场景
 - [ ] **ES2024+ 新特性**
   - Temporal API（日期时间处理）
   - Record & Tuple（不可变数据结构）
